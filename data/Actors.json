@@ -1,13 +1,13 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"Marc","classId":1,"equips":[1,0,1,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"Marc","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Marc","classId":1,"equips":[1,0,1,0,0],"faceIndex":0,"faceName":"Marc","traits":[],"initialLevel":1,"maxLevel":1,"name":"Marc","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"Alex","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"Liam","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":1,"characterName":"Marc","classId":4,"equips":[4,0,2,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"Trenton","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":1,"characterName":"Marc","classId":4,"equips":[4,0,2,0,0],"faceIndex":3,"faceName":"Marc","traits":[],"initialLevel":1,"maxLevel":1,"name":"Trenton","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"Zech","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"Daniel","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"Eadric","nickname":"","note":"","profile":""},
-{"id":8,"battlerName":"","characterIndex":2,"characterName":"Marc","classId":8,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"Rhianan","nickname":"","note":"","profile":""},
-{"id":9,"battlerName":"","characterIndex":3,"characterName":"Marc","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"Jhonny","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":2,"characterName":"Marc","classId":8,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Marc","traits":[],"initialLevel":1,"maxLevel":1,"name":"Rhianan","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":3,"characterName":"Marc","classId":9,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Marc","traits":[],"initialLevel":1,"maxLevel":1,"name":"Jhonny","nickname":"","note":"","profile":""},
 {"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":10,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"Zach","nickname":"","note":"","profile":""}
 ]
