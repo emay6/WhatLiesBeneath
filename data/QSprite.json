@@ -1,0 +1,214 @@
+{
+  "Main": {
+    "name": "Main",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "C:\\Users\\admin\\WhatLiesBeneath\\img\\characters\\%Main-Marc.png",
+    "poses": {
+      "move1": {
+        "name": "move1",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          64,
+          65,
+          64,
+          63
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          4,
+          5,
+          4,
+          3
+        ]
+      },
+      "move3": {
+        "name": "move3",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          52,
+          53,
+          52,
+          51
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          16,
+          17,
+          16,
+          15
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          28,
+          29,
+          28,
+          27
+        ]
+      },
+      "move7": {
+        "name": "move7",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          88,
+          89,
+          88,
+          87
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          40,
+          41,
+          40,
+          39
+        ]
+      },
+      "move9": {
+        "name": "move9",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          76,
+          77,
+          76,
+          75
+        ]
+      },
+      "dash1": {
+        "name": "dash1",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          64,
+          65,
+          64,
+          63
+        ]
+      },
+      "dash2": {
+        "name": "dash2",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          7,
+          8,
+          7,
+          6
+        ]
+      },
+      "dash3": {
+        "name": "dash3",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          52,
+          53,
+          52,
+          51
+        ]
+      },
+      "dash4": {
+        "name": "dash4",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          19,
+          20,
+          19,
+          18
+        ]
+      },
+      "dash6": {
+        "name": "dash6",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          31,
+          32,
+          31,
+          30
+        ]
+      },
+      "dash7": {
+        "name": "dash7",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          88,
+          89,
+          88,
+          87
+        ]
+      },
+      "dash8": {
+        "name": "dash8",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          43,
+          44,
+          43,
+          42
+        ]
+      },
+      "dash9": {
+        "name": "dash9",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          76,
+          77,
+          76,
+          75
+        ]
+      },
+      "default": {
+        "name": "default",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          4
+        ]
+      }
+    }
+  },
+  "Main2": {
+    "name": "Main2",
+    "cols": 1,
+    "rows": 1,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "C:\\Users\\admin\\WhatLiesBeneath\\img\\characters\\%Main2-Unconscious.png",
+    "poses": {
+      "Unconscious": {
+        "name": "Unconscious",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0
+        ]
+      }
+    }
+  }
+}
